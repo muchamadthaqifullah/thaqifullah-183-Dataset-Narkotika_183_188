@@ -8,7 +8,7 @@ Dataset yang kami dapatkan diperoleh dari hasil scraping data melalui website Di
 - **Task 2:** Overview 
 
 ## Dataset Narkotika Hasil Scraping
-Hasil dari dataset ini berupa PDF, didapatkan sebanyak 160 PDF
+Hasil dari dataset ini berupa PDF, didapatkan sebanyak 52 PDF
 
 ## Overview 
 Overview merupakan hasil olahan dari Scraping yang telah dilakukan. Pada Overview ini terdapat 4 hasil yang ditampilkan yaitu: nomor putusan, Pengadilan Negeri Medan, amar putusan, dan barang bukti. 
